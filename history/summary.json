@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1355,
-    "timeDay": 1355,
-    "timeWeek": 1355,
-    "timeMonth": 1355,
-    "timeYear": 1355,
+    "time": 1246,
+    "timeDay": 1246,
+    "timeWeek": 1246,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2103,
-    "timeDay": 2103,
-    "timeWeek": 2103,
-    "timeMonth": 2103,
-    "timeYear": 2103,
+    "time": 1542,
+    "timeDay": 1542,
+    "timeWeek": 1542,
+    "timeMonth": 1542,
+    "timeYear": 1542,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/yg-life.com",
     "slug": "yg-life",
     "status": "down",
-    "uptime": "82.52%",
-    "uptimeDay": "82.52%",
-    "uptimeWeek": "82.52%",
-    "uptimeMonth": "82.52%",
-    "uptimeYear": "82.52%",
-    "time": 15505,
-    "timeDay": 15505,
-    "timeWeek": 15505,
-    "timeMonth": 15505,
-    "timeYear": 15505,
+    "uptime": "9.61%",
+    "uptimeDay": "9.61%",
+    "uptimeWeek": "9.61%",
+    "uptimeMonth": "9.61%",
+    "uptimeYear": "9.61%",
+    "time": 15452,
+    "timeDay": 15452,
+    "timeWeek": 15452,
+    "timeMonth": 15452,
+    "timeYear": 15452,
     "dailyMinutesDown": {
-      "2021-10-31": 0
+      "2021-10-31": 7
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 261,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "time": 576,
+    "timeDay": 576,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   }
 ]
