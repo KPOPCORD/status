@@ -6,11 +6,21 @@ sites:
     url: https://www.smtown.com
   - name: SMTOWN Mobile
     url: https://m.smtown.com
+  - name: DearU
+    url: http://www.dear-u.co
+  - name: Lysn
+    url: http://www.lysn.com
   - name: YG LIFE
     url: https://yg-life.com
+  - name: BIGHIT MUSIC
+    url: https://ibighit.com
   - name: Weverse
     url: https://www.weverse.io
-
+  - name: Cube Entertainment
+    url: http://www.cubeent.co.kr
+  - name: U CUBE
+    url: https://united-cube.com
+   
 status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
