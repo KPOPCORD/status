@@ -11,7 +11,7 @@ sites:
   - name: Lysn
     url: http://www.lysn.com
   - name: YG LIFE
-    url: https://yg-life.com
+    url: https://yg-life.com/?lang=ko
   - name: BIGHIT MUSIC
     url: https://ibighit.com
   - name: Weverse
@@ -20,6 +20,10 @@ sites:
     url: http://www.cubeent.co.kr
   - name: U CUBE
     url: https://united-cube.com
+
+assignees:
+  - SOLPLPARTY
+  - amblerkr
    
 status-website:
   baseUrl: /status
