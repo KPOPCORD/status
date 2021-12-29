@@ -88,7 +88,7 @@
     "timeMonth": 15454,
     "timeYear": 15456,
     "dailyMinutesDown": {
-      "2021-12-29": 21,
+      "2021-12-29": 1321,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
       "2021-12-26": 1440,
@@ -263,17 +263,19 @@
     "url": "https://www.fncent.com",
     "icon": "https://favicons.githubusercontent.com/www.fncent.com",
     "slug": "fnc-ent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1261,
-    "timeDay": 1344,
-    "timeWeek": 1290,
-    "timeMonth": 1268,
-    "timeYear": 1261,
-    "dailyMinutesDown": {}
+    "time": 1259,
+    "timeDay": 1250,
+    "timeWeek": 1273,
+    "timeMonth": 1264,
+    "timeYear": 1259,
+    "dailyMinutesDown": {
+      "2021-12-29": 0
+    }
   }
 ]
