@@ -32,7 +32,7 @@ assignees:
   - amblerkr
    
 status-website:
-  baseUrl: /status
+  cname: kpop-status.cord.town
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** for K-POP"
