@@ -88,7 +88,7 @@
     "timeMonth": 15450,
     "timeYear": 15457,
     "dailyMinutesDown": {
-      "2022-02-24": 26,
+      "2022-02-24": 771,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
@@ -212,9 +212,9 @@
     "url": "https://www.jype.com",
     "icon": "https://favicons.githubusercontent.com/www.jype.com",
     "slug": "jyp-ent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -224,6 +224,7 @@
     "timeMonth": 1359,
     "timeYear": 1261,
     "dailyMinutesDown": {
+      "2022-02-24": 0,
       "2022-01-12": 17
     }
   },
