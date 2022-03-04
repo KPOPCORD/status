@@ -40,19 +40,19 @@
     "url": "http://www.dear-u.co",
     "icon": "https://favicons.githubusercontent.com/www.dear-u.co",
     "slug": "dear-u",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 733,
-    "timeWeek": 790,
-    "timeMonth": 566,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 483,
+    "timeDay": 522,
+    "timeWeek": 730,
+    "timeMonth": 557,
+    "timeYear": 483,
     "dailyMinutesDown": {
-      "2022-03-04": 1
+      "2022-03-04": 16
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 15428,
     "timeYear": 15454,
     "dailyMinutesDown": {
-      "2022-03-04": 419,
+      "2022-03-04": 436,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
