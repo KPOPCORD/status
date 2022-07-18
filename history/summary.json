@@ -95,7 +95,7 @@
     "timeMonth": 15445,
     "timeYear": 15389,
     "dailyMinutesDown": {
-      "2022-07-18": 231,
+      "2022-07-18": 1118,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -403,18 +403,18 @@
     "icon": "https://favicons.githubusercontent.com/www.weverse.io",
     "slug": "weverse",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.76%",
+    "uptimeDay": "38.38%",
+    "uptimeWeek": "91.20%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "99.76%",
     "time": 372,
     "timeDay": 764,
     "timeWeek": 439,
     "timeMonth": 337,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2022-07-18": 0
+      "2022-07-18": 887
     }
   },
   {
@@ -440,9 +440,9 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://favicons.githubusercontent.com/www.cubeent.co.kr",
     "slug": "cube-ent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -451,7 +451,9 @@
     "timeWeek": 2407,
     "timeMonth": 2255,
     "timeYear": 2197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   },
   {
     "name": "U CUBE",
