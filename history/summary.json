@@ -46,19 +46,19 @@
     "url": "http://www.dear-u.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.dear-u.co.ico",
     "slug": "dear-u",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 921,
-    "timeWeek": 911,
-    "timeMonth": 951,
+    "time": 956,
+    "timeDay": 988,
+    "timeWeek": 929,
+    "timeMonth": 954,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 11
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 986,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2023-07-26": 665,
+      "2023-07-26": 676,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -414,7 +414,7 @@
     "timeMonth": 15443,
     "timeYear": 12544,
     "dailyMinutesDown": {
-      "2023-07-26": 665,
+      "2023-07-26": 676,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
