@@ -46,19 +46,19 @@
     "url": "http://www.dear-u.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.dear-u.co.ico",
     "slug": "dear-u",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 957,
-    "timeDay": 1006,
-    "timeWeek": 941,
+    "timeDay": 998,
+    "timeWeek": 945,
     "timeMonth": 957,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 7
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 986,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2023-07-26": 705,
+      "2023-07-26": 711,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -414,7 +414,7 @@
     "timeMonth": 15443,
     "timeYear": 12544,
     "dailyMinutesDown": {
-      "2023-07-26": 705,
+      "2023-07-26": 711,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -822,7 +822,7 @@
     "timeDay": 1952,
     "timeWeek": 2144,
     "timeMonth": 2303,
-    "timeYear": 2322,
+    "timeYear": 2323,
     "dailyMinutesDown": {
       "2023-06-30": 16,
       "2023-06-09": 21,
@@ -867,7 +867,7 @@
     "timeDay": 1280,
     "timeWeek": 1280,
     "timeMonth": 1340,
-    "timeYear": 1356,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2023-04-14": 15,
       "2023-01-13": 16,
