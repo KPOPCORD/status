@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lysn.com.ico",
     "slug": "lysn",
     "status": "down",
-    "uptime": "48.35%",
+    "uptime": "48.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.94%",
+    "uptimeYear": "7.93%",
     "time": 793,
     "timeDay": 1148,
     "timeWeek": 932,
     "timeMonth": 933,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-08-15": 1406,
+      "2023-08-16": 27,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -432,7 +433,8 @@
     "timeMonth": 15438,
     "timeYear": 12543,
     "dailyMinutesDown": {
-      "2023-08-15": 1406,
+      "2023-08-16": 27,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -724,8 +726,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
-      "2022-08-17": 1440,
-      "2022-08-16": 1440
+      "2022-08-17": 1440
     }
   },
   {
@@ -816,9 +817,9 @@
     "slug": "cube-ent",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 2294,
     "timeDay": 2194,
@@ -826,7 +827,6 @@
     "timeMonth": 2210,
     "timeYear": 2320,
     "dailyMinutesDown": {
-      "2023-08-15": 7,
       "2023-06-30": 16,
       "2023-06-09": 21,
       "2023-05-15": 29,
